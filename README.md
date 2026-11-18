@@ -1,1 +1,1 @@
-# Shikiro-chat-gpt
+npm init -y && npm install remotion @remotion/cli @remotion/three three @react-three/fiber react@18 react-dom@18 && npm install -D typescript @types/react @types/three
