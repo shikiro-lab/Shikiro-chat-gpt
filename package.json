@@ -1,0 +1,3 @@
+{
+  "name":"shikiro-chat-gpt","version":"1.0.0","private":true,"scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"dependencies":{"remotion":"latest","@remotion/cli":"latest","@remotion/three":"latest","three":"latest","@react-three/fiber":"latest","react":"18","react-dom":"18"},"devDependencies":{"typescript":"latest","@types/react":"latest","@types/three":"latest"}
+}
